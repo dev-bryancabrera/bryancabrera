@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan Cabrera</h1>
 <h3 align="center">A passionate Software Developer, Full Stack from Ecuador</h3>
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, CSS3, Nodejs**
+- 🌱 I’m currently learning **Reactjs, Nodejs, CSS3**
 
 - 👯 I’m looking to collaborate on **challenging projects that bring new knowledge to the table**
 
